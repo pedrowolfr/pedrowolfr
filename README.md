@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **backend_API_mysql**
 
-- 🌱 I’m currently learning **typescript**
+- 🌱 I’m currently learning **react+redux**
 
 - 👨‍💻 All of my projects are available at [https://github.com/pedrowolfr?tab=repositories](https://github.com/pedrowolfr?tab=repositories)
 
