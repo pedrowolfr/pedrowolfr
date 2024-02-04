@@ -2,7 +2,6 @@
 <h3 align="center">Working hard to be a fullstack developer</h3>
 
 <img align="right" alt="GIF" src="https://github.com/pedrowolfr/pedrowolfr/blob/main/code.gif" width="500" height="320" />
-<p align="left"> <a href="https://twitter.com/pedrowolfr" target="blank"><img src="https://img.shields.io/twitter/follow/pedrowolfr?logo=twitter&style=for-the-badge" alt="pedrowolfr" /></a> </p>
 
 - 🔭 I’m currently working on **backend_API_mysql**
 
